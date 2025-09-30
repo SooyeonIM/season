@@ -1,0 +1,5 @@
+{
+  "name": "Seasonal Change Simulation",
+  "description": "An interactive educational web application for elementary school students to understand why seasons change, based on Earth's axial tilt and its orbit around the sun.",
+  "requestFramePermissions": []
+}
